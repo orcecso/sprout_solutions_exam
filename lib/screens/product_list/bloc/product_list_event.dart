@@ -13,3 +13,11 @@ class ProductListInitialEvent extends ProductListEvent {
 
   const ProductListInitialEvent();
 }
+
+class NextProductList extends ProductListEvent {
+  final int pageNum;
+  @override
+  List<Object?> get props => [pageNum];
+
+  const NextProductList(this.pageNum);
+}
