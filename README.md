@@ -1,5 +1,5 @@
 
-Content House Technical Exam
+Sprout Solutions Technical exam Exam
 This repository contains a coding exam project developed from scratch to demonstrate proficiency in various aspects of software development. The exam showcases skills in state management using Bloc, adherence to coding principles, implementation of clean code practices, creation of reusable widgets, and utilization of routing solutions such as auto_route, among others.
 
 Functionality Overview
